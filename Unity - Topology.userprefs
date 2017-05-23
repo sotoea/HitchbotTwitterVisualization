@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GraphController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Node.cs" Line="42" Column="54" />
+      <File FileName="Assets\Scripts\Link.cs" Line="58" Column="47" />
+      <File FileName="Assets\Data\Untitled.txt" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DataContainer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Data\PreCanada.txt" Line="22" Column="31" />
+      <File FileName="Assets\Scripts\CanvasComponents.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProportionalMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Data\PreCanadaa.txt" Line="22" Column="31" />
+      <File FileName="Assets\Scripts\GraphController.cs" Line="171" Column="33" />
+      <File FileName="Assets\Scripts\GraphmlController.cs" Line="183" Column="22" />
+      <File FileName="Assets\Data\Canada.txt" Line="21" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
